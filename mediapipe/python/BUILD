@@ -72,5 +72,6 @@ cc_library(
         "//mediapipe/modules/pose_detection:pose_detection_cpu",
         "//mediapipe/modules/pose_landmark:pose_landmark_by_roi_cpu",
         "//mediapipe/modules/pose_landmark:pose_landmark_cpu",
+        "//mediapipe/graphs/iris_tracking:iris_tracking_cpu_deps",
     ],
 )
